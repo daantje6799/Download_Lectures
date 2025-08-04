@@ -1,3 +1,3 @@
 Download ffmpeg, add ffmpeg/bin to path
 Download TemperMokey Extension, Create A New Script, Copy Paste TemperMonkey_Script, Save
-Access Weblecture, Press F12, Click Network, Run Generated .Bat file
+Access Weblecture, Press F12, Click Network, Choose Output Name, Run Generated .Bat file
