@@ -1,4 +1,4 @@
 Download FFMPEG
 Download TemperMokey Extension
-Make New Script
-Access Weblecture, Press F12, Click Network, Click Generated .Bat file
+Make New Script, paste TemperMonkey_Script, Save
+Access Weblecture, Press F12, Click Network, Run Generated .Bat file
