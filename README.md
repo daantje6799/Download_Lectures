@@ -1,6 +1,6 @@
 # Download_Lectures
-Download TamperMonkey
-Add Script
-Enable "Allow User Scripts" in extension settings
-Play Lecture
-Execute Files
+-Download TamperMonkey
+-Add Script
+-Enable "Allow User Scripts" in browser extension settings
+-Play Lecture
+-Execute Files
