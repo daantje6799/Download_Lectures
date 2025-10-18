@@ -4,4 +4,4 @@
 3. Enable "Allow User Scripts" in browser extension settings  
 4. Play Lecture
 5. Choose Output
-6. Execute Files
+6. Execute File
