@@ -1,7 +1,8 @@
 #Download_Lectures
-1. Download TamperMonkey  
-2. Add Script  
-3. Enable "Allow User Scripts" in browser extension settings  
-4. Play Lecture
-5. Choose Output
-6. Execute File
+1. Download the TamperMonkey browser extension (https://www.tampermonkey.net/)
+2. Go to "chrome://extensions/", click on details TamperMonkey, Enable "Allow access to file URLs" and "Allow User Scripts"
+3. Add TamperMonkey_Script.bat in TamperMonkey
+4. Make sure you have FFmpeg downloaded as PATH (https://www.ffmpeg.org/download.html)
+5. Play lecture
+6. Choose output type
+7. Execute the downloaded .bat file
